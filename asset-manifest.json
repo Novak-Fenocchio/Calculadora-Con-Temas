@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Novak-Fenocchio/Calculadora-Con-Temas.git/static/css/main.6b43b198.chunk.css",
-    "main.js": "/Novak-Fenocchio/Calculadora-Con-Temas.git/static/js/main.78a8bcf9.chunk.js",
-    "main.js.map": "/Novak-Fenocchio/Calculadora-Con-Temas.git/static/js/main.78a8bcf9.chunk.js.map",
-    "runtime-main.js": "/Novak-Fenocchio/Calculadora-Con-Temas.git/static/js/runtime-main.fd366ff8.js",
-    "runtime-main.js.map": "/Novak-Fenocchio/Calculadora-Con-Temas.git/static/js/runtime-main.fd366ff8.js.map",
-    "static/js/2.203cf345.chunk.js": "/Novak-Fenocchio/Calculadora-Con-Temas.git/static/js/2.203cf345.chunk.js",
-    "static/js/2.203cf345.chunk.js.map": "/Novak-Fenocchio/Calculadora-Con-Temas.git/static/js/2.203cf345.chunk.js.map",
-    "static/js/3.13de005e.chunk.js": "/Novak-Fenocchio/Calculadora-Con-Temas.git/static/js/3.13de005e.chunk.js",
-    "static/js/3.13de005e.chunk.js.map": "/Novak-Fenocchio/Calculadora-Con-Temas.git/static/js/3.13de005e.chunk.js.map",
-    "index.html": "/Novak-Fenocchio/Calculadora-Con-Temas.git/index.html",
-    "static/css/main.6b43b198.chunk.css.map": "/Novak-Fenocchio/Calculadora-Con-Temas.git/static/css/main.6b43b198.chunk.css.map",
-    "static/js/2.203cf345.chunk.js.LICENSE.txt": "/Novak-Fenocchio/Calculadora-Con-Temas.git/static/js/2.203cf345.chunk.js.LICENSE.txt"
+    "main.css": "/Calculadora-Con-Temas/static/css/main.6b43b198.chunk.css",
+    "main.js": "/Calculadora-Con-Temas/static/js/main.78a8bcf9.chunk.js",
+    "main.js.map": "/Calculadora-Con-Temas/static/js/main.78a8bcf9.chunk.js.map",
+    "runtime-main.js": "/Calculadora-Con-Temas/static/js/runtime-main.1b3bcc7c.js",
+    "runtime-main.js.map": "/Calculadora-Con-Temas/static/js/runtime-main.1b3bcc7c.js.map",
+    "static/js/2.203cf345.chunk.js": "/Calculadora-Con-Temas/static/js/2.203cf345.chunk.js",
+    "static/js/2.203cf345.chunk.js.map": "/Calculadora-Con-Temas/static/js/2.203cf345.chunk.js.map",
+    "static/js/3.13de005e.chunk.js": "/Calculadora-Con-Temas/static/js/3.13de005e.chunk.js",
+    "static/js/3.13de005e.chunk.js.map": "/Calculadora-Con-Temas/static/js/3.13de005e.chunk.js.map",
+    "index.html": "/Calculadora-Con-Temas/index.html",
+    "static/css/main.6b43b198.chunk.css.map": "/Calculadora-Con-Temas/static/css/main.6b43b198.chunk.css.map",
+    "static/js/2.203cf345.chunk.js.LICENSE.txt": "/Calculadora-Con-Temas/static/js/2.203cf345.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd366ff8.js",
+    "static/js/runtime-main.1b3bcc7c.js",
     "static/js/2.203cf345.chunk.js",
     "static/css/main.6b43b198.chunk.css",
     "static/js/main.78a8bcf9.chunk.js"
